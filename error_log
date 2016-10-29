@@ -1,0 +1,7 @@
+[25-Oct-2016 22:27:40 UTC] PHP Parse error:  syntax error, unexpected ''footer-menu1'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/rkschoenrock/public_html/thig/wp-content/themes/THIG-WordPress/functions.php on line 66
+[25-Oct-2016 22:28:40 UTC] PHP Parse error:  syntax error, unexpected ''footer1-menu'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/rkschoenrock/public_html/thig/wp-content/themes/THIG-WordPress/functions.php on line 66
+[25-Oct-2016 22:28:43 UTC] PHP Parse error:  syntax error, unexpected ''footer1-menu'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/rkschoenrock/public_html/thig/wp-content/themes/THIG-WordPress/functions.php on line 66
+[28-Oct-2016 16:22:56 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/rkschoenrock/public_html/thig/wp-content/themes/THIG-WordPress/post.php on line 32
+[28-Oct-2016 16:23:19 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/rkschoenrock/public_html/thig/wp-content/themes/THIG-WordPress/post.php on line 32
+[28-Oct-2016 16:23:22 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/rkschoenrock/public_html/thig/wp-content/themes/THIG-WordPress/post.php on line 32
+[28-Oct-2016 20:33:27 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/rkschoenrock/public_html/thig/wp-content/themes/THIG-WordPress/functions.php on line 112
